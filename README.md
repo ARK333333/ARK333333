@@ -1,8 +1,9 @@
 ### Hi there 👋
-I am currently learning sveltekit.
 
 currently working with a team on this website https://alentajia.com 
 looking for feedback on it.
+
+I am currently learning sveltekit.
 
 <!--
 **ARK333333/ARK333333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
